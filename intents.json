@@ -26,12 +26,6 @@
          "patterns": ["emi", "scorpio", "months", "how much emi is left"],
          "responses": ["8cgpa 1 hi bar aya uska, baki vo khud de rhe hai. Time lgega", "I am not comfortable talking about it over chat"],
          "context_set": ""
-        },
-
-        {"tag": "it",
-         "patterns": ["shitiest branch", "tatti branch", "chutiye", "bsdk", "sare chutiye knsi branch me hai"],
-         "responses": ["IT me chutiye hai", "fuck IT"],
-         "context_set": ""
         }
    ]
 }
